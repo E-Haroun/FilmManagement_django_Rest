@@ -1,4 +1,4 @@
-# FilmManagement_django_Rest ManyToMany OneToMany
+# FilmManagement_django_Rest ManyToMany & OneToMany
 
 Gestion de cinema,film,gere with django rest framework , using ManyToMany and OneToMany relationships.
 import the MySQL database
